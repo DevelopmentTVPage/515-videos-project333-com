@@ -18,7 +18,8 @@
         "networks": [
             "facebook",
             "pinterest",
-            "linkedin"
+            "linkedin",
+            "email"
         ]
     }
 }
