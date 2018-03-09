@@ -16,7 +16,8 @@
         "domain": "videos.project222.com",
         "enabled": true,
         "networks": [
-            "google-plus"
+            "google-plus",
+            "linkedin"
         ]
     }
 }
