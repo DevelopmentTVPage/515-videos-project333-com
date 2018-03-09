@@ -17,7 +17,8 @@
         "enabled": true,
         "networks": [
             "facebook",
-            "pinterest"
+            "pinterest",
+            "linkedin"
         ]
     }
 }
