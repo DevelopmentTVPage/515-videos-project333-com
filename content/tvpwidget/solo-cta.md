@@ -14,6 +14,9 @@
     "preload": false,
     "sharing": {
         "domain": "videos.project222.com",
-        "enabled": true
+        "enabled": true,
+        "networks": [
+            "google-plus"
+        ]
     }
 }
