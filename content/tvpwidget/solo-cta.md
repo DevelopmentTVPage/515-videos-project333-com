@@ -12,5 +12,8 @@
         "adInterval": 0
     },
     "preload": false,
-    "sharing": null
+    "sharing": {
+        "domain": "videos.project222.com",
+        "enabled": true
+    }
 }
