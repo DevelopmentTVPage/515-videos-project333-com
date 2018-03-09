@@ -18,8 +18,7 @@
         "networks": [
             "facebook",
             "pinterest",
-            "google-plus",
-            "linkedin"
+            "google-plus"
         ]
     }
 }
