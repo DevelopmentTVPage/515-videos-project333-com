@@ -12,5 +12,7 @@
         "adInterval": 0
     },
     "preload": false,
-    "sharing": null
+    "sharing": {
+        "enabled": true
+    }
 }
