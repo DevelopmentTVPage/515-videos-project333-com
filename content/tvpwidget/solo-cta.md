@@ -17,8 +17,7 @@
         "enabled": true,
         "networks": [
             "facebook",
-            "pinterest",
-            "google-plus"
+            "pinterest"
         ]
     }
 }
