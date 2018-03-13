@@ -14,7 +14,7 @@
     "preload": false,
     "sharing": {
         "enabled": true,
-        "domain": "videos.projectx.com",
+        "domain": "",
         "networks": [
             "facebook",
             "twitter",
