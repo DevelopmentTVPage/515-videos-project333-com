@@ -13,13 +13,12 @@
     },
     "preload": false,
     "sharing": {
-        "enabled": false,
+        "enabled": true,
         "networks": [
             "facebook",
             "twitter",
             "pinterest",
             "google-plus",
-            "linkedin",
             "email"
         ],
         "domain": "videos.project555.com"
