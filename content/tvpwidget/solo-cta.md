@@ -19,7 +19,9 @@
             "facebook",
             "twitter",
             "pinterest",
-            "google-plus"
+            "google-plus",
+            "linkedin",
+            "email"
         ]
     }
 }
