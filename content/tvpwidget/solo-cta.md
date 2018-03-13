@@ -13,13 +13,12 @@
     },
     "preload": false,
     "sharing": {
-        "domain": "videos.project222.com",
         "enabled": true,
+        "domain": "videos.projectx.com",
         "networks": [
             "facebook",
-            "pinterest",
-            "linkedin",
-            "email"
+            "twitter",
+            "pinterest"
         ]
     }
 }
