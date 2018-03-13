@@ -18,7 +18,8 @@
             "facebook",
             "pinterest",
             "google-plus",
-            "email"
+            "email",
+            "linkedin"
         ],
         "domain": "videos.project555.com"
     }
