@@ -16,7 +16,6 @@
         "enabled": true,
         "networks": [
             "facebook",
-            "twitter",
             "pinterest",
             "google-plus",
             "email"
