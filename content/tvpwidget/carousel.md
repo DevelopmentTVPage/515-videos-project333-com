@@ -11,5 +11,17 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false
+    "preload": false,
+    "sharing": {
+        "enabled": false,
+        "networks": [
+            "facebook",
+            "twitter",
+            "pinterest",
+            "google-plus",
+            "linkedin",
+            "email"
+        ],
+        "domain": "videos.project555.com"
+    }
 }
