@@ -1,8 +1,8 @@
 {
     "type": "solo-cta",
-    "title": "Solo CTA",
-    "name": "solo-cta",
-    "channelId": "95398014",
+    "title": "Carousel",
+    "name": "carousel",
+    "channelId": "121494071",
     "layout": "bootstrap",
     "advertising": {
         "enabled": false,
@@ -13,13 +13,14 @@
     },
     "preload": false,
     "sharing": {
-        "domain": "videos.project222.com",
         "enabled": true,
         "networks": [
             "facebook",
             "pinterest",
-            "linkedin",
-            "email"
-        ]
+            "google-plus",
+            "email",
+            "linkedin"
+        ],
+        "domain": "videos.project555.com"
     }
 }
